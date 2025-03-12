@@ -4,3 +4,4 @@ GITの勉強を開始する 2025.3.11
 git add filename
 git rm  filename
 git commit -v
+git status
