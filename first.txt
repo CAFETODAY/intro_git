@@ -6,4 +6,4 @@ git rm  filename
 git commit -v
 git status
 git rm
-
+git diff
